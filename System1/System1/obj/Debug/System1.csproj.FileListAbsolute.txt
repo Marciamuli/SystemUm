@@ -1,0 +1,11 @@
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\bin\Debug\System1.exe.config
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\bin\Debug\System1.exe
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\bin\Debug\System1.pdb
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.csprojResolveAssemblyReference.cache
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.Form1.resources
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.Links.resources
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.Properties.Resources.resources
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.Sobre.resources
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.csproj.GenerateResource.Cache
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.exe
+c:\users\marcia.smulinario\documents\visual studio 2015\Projects\System1\System1\obj\Debug\System1.pdb
